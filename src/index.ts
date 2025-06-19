@@ -1,4 +1,4 @@
-import "./typeAlias";
+import "./union";
 // const users = [
 //   {
 //     id: 1,
