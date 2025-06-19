@@ -1,5 +1,4 @@
-import { processUserData } from "@src/processUser";
-import "./object";
+import "./typeAlias";
 // const users = [
 //   {
 //     id: 1,
