@@ -103,3 +103,16 @@ function print2(): User {
     },
   };
 }
+
+// Keyof operator
+type UserKeys = keyof User;
+const userKeys: UserKeys[] = [
+  "id",
+  "firstName",
+  "lastName",
+  "age",
+  "score",
+  "skills",
+];
+
+const key: UserKeys = "id";
