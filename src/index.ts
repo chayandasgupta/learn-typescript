@@ -1,4 +1,4 @@
-import "./union";
+import "./generic";
 // const users = [
 //   {
 //     id: 1,
